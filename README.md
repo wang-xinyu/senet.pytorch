@@ -1,4 +1,14 @@
+
+This repo in mainly used by [wang-xinyu/tensorrtx/senet](https://github.com/wang-xinyu/tensorrtx/tree/master/senet).
+
+generate .wts file for tensorrt:
+
+```
+python inference.py
+```
+
 # SENet.pytorch
+
 
 An implementation of SENet, proposed in **Squeeze-and-Excitation Networks** by Jie Hu, Li Shen and Gang Sun, who are the winners of ILSVRC 2017 classification competition.
 
